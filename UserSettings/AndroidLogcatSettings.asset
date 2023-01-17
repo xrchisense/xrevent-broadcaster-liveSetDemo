@@ -1,0 +1,311 @@
+{
+    "m_SelectedDeviceId": "1WMHH860GQ1363",
+    "m_SelectedPackage": {
+        "deviceId": "1WMHH860GQ1363",
+        "name": "com.XRchisense.xreventbroadcasterliveSetDemo",
+        "processId": 14871,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.xreventbroadcastercinemaDemo",
+            "processId": 4253,
+            "exited": true
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.xreventbroadcastercinemaDemo",
+            "processId": 4825,
+            "exited": true
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.oculus.shellenv",
+            "processId": 1961,
+            "exited": true
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.xreventbroadcastercinemaDemo",
+            "processId": 4639,
+            "exited": true
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.xreventbroadcastercinemaDemo",
+            "processId": 6784,
+            "exited": true
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.oculus.shellenv",
+            "processId": 5426,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.xreventbroadcastercinemaDemo",
+            "processId": 10913,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.xreventbroadcastercinemaDemo",
+            "processId": 12301,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.xreventbroadcastercinemaDemo",
+            "processId": 13686,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.xreventbroadcasterliveSetDemo",
+            "processId": 14279,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.xreventbroadcasterliveSetDemo",
+            "processId": 16116,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.xreventbroadcasterliveSetDemo",
+            "processId": 17056,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.xreventbroadcasterliveSetDemo",
+            "processId": 17698,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.xreventbroadcasterliveSetDemo",
+            "processId": 18434,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.xreventbroadcasterliveSetDemo",
+            "processId": 19591,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.xreventbroadcasterliveSetDemo",
+            "processId": 20422,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.xreventbroadcasterliveSetDemo",
+            "processId": 21544,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.xreventbroadcasterliveSetDemo",
+            "processId": 23586,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.xreventbroadcasterliveSetDemo",
+            "processId": 24189,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.xreventbroadcasterliveSetDemo",
+            "processId": 25866,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.xreventbroadcasterliveSetDemo",
+            "processId": 26673,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.xreventbroadcasterliveSetDemo",
+            "processId": 27293,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.xreventbroadcasterliveSetDemo",
+            "processId": 28382,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.xreventbroadcasterliveSetDemo",
+            "processId": 29599,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.xreventbroadcasterliveSetDemo",
+            "processId": 31284,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.xreventbroadcasterliveSetDemo",
+            "processId": 32094,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.xreventbroadcasterliveSetDemo",
+            "processId": 626,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.xreventbroadcasterliveSetDemo",
+            "processId": 1871,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.xreventbroadcasterliveSetDemo",
+            "processId": 3492,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.xreventbroadcasterliveSetDemo",
+            "processId": 4881,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.xreventbroadcasterliveSetDemo",
+            "processId": 6436,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.xreventbroadcasterliveSetDemo",
+            "processId": 7277,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.xreventbroadcasterliveSetDemo",
+            "processId": 7858,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.xreventbroadcasterliveSetDemo",
+            "processId": 8449,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.xreventbroadcasterliveSetDemo",
+            "processId": 9026,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.xreventbroadcasterliveSetDemo",
+            "processId": 9720,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.xreventbroadcasterliveSetDemo",
+            "processId": 10388,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.xreventbroadcasterliveSetDemo",
+            "processId": 11015,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.xreventbroadcasterliveSetDemo",
+            "processId": 11511,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.xreventbroadcasterliveSetDemo",
+            "processId": 13412,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.xreventbroadcasterliveSetDemo",
+            "processId": 14871,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}
