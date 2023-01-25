@@ -3,7 +3,7 @@
     "m_SelectedPackage": {
         "deviceId": "1WMHH860GQ1363",
         "name": "com.XRchisense.xreventbroadcasterliveSetDemo",
-        "processId": 14871,
+        "processId": 15521,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -252,6 +252,84 @@
             "deviceId": "1WMHH860GQ1363",
             "name": "com.XRchisense.xreventbroadcasterliveSetDemo",
             "processId": 14871,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.xreventbroadcasterliveSetDemo",
+            "processId": 4121,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.xreventbroadcasterliveSetDemo",
+            "processId": 5637,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.xreventbroadcasterliveSetDemo",
+            "processId": 6565,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.xreventbroadcasterliveSetDemo",
+            "processId": 7828,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.xreventbroadcasterliveSetDemo",
+            "processId": 8430,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.xreventbroadcasterliveSetDemo",
+            "processId": 9081,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.xreventbroadcasterliveSetDemo",
+            "processId": 9848,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.xreventbroadcasterliveSetDemo",
+            "processId": 10452,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.xreventbroadcasterliveSetDemo",
+            "processId": 12328,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.xreventbroadcasterliveSetDemo",
+            "processId": 13333,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.xreventbroadcasterliveSetDemo",
+            "processId": 13864,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.xreventbroadcasterliveSetDemo",
+            "processId": 14602,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.xreventbroadcasterliveSetDemo",
+            "processId": 15521,
             "exited": false
         }
     ],
