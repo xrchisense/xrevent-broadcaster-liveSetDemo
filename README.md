@@ -3,8 +3,8 @@ This exhibition room is intended to demonstrate the low latency video capability
 
 
 ## Visuals
-![Image of the VR Demo](image.jpg)
-
+![Image of the VR Demo](https://github.com/xrchisense/xrevent-broadcaster-unity/blob/main/Documentation/Images/ls01.jpg?raw=true)
+![Image of the VR Demo](https://github.com/xrchisense/xrevent-broadcaster-unity/blob/main/Documentation/Images/LS02.jpg?raw=true)
 
 ## Prerequisites and Requirements
 * Unity 2020.3.22f1
